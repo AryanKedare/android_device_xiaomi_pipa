@@ -4,8 +4,4 @@
     "target_path": "device/xiaomi/sm8250",
     "branch": "14.0-pipa",
   }
-  {
-    "repository": "crdroidandroid/android_vendor_xiaomi_pipa",
-    "target_path": "vendor/xiaomi/pipa",
-  }
 ]
