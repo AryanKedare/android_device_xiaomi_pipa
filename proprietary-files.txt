@@ -325,7 +325,8 @@ vendor/firmware/CAMERA_ICP.elf
 vendor/lib64/libmmcamera_faceproc.so
 vendor/lib64/libmmcamera_faceproc2.so
 
-# Charger (HVDCP)
+# Charger 
+system/bin/charger
 vendor/bin/hvdcp_opti
 vendor/bin/init.qti.chg_policy.sh
 vendor/etc/charger_fstab.qti

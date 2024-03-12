@@ -1,3 +1,6 @@
+# Charger
+/system/bin/charger                    u:object_r:charger_exec:s0
+
 # Pen
 /vendor/bin/xiaomi-pen		u:object_r:xiaomi_pen_exec:s0
 
